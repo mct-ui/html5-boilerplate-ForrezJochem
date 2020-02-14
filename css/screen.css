@@ -1,0 +1,13 @@
+body {
+  background-color: whitesmoke;
+}
+/*
+    Elements: Images
+    ---
+    Default markup for images to make them responsive
+*/
+
+img {
+    max-width: 100%
+    
+}
